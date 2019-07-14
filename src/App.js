@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          test
+          
         </header>
         <div className="container h-100">
           <MapContainer />
