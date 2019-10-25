@@ -1,3 +1,17 @@
+# Lets Find It
+Travel smarter by saving the places you want to go. [Demo](https://erics-map-finder.herokuapp.com/)
+
+![Demo of App](https://photos.google.com/photo/AF1QipM08_c0ZUeuc41cwk1E1tNJStRXtXdqMuEiDAv_)
+
+### App Requirements:
+
+This app took about 25-hours to build for an interview assignment. I learned lots along the way. Below were the given instructions:
+
+Create a web app (desktop or mobile) that provides a query box and a search button and then calls the Places Library for Google Maps (https://developers.google.com/maps/documentation/javascript/places). Format the results to give a good user experience.
+
+Use whatever libraries, documentation, or frameworks you consider necessary. This should be a client-side app, with little or no server code.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
