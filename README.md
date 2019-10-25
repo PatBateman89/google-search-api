@@ -1,7 +1,7 @@
 # Lets Find It
 Travel smarter by saving the places you want to go. [Demo](https://erics-map-finder.herokuapp.com/)
 
-![Demo of App](https://photos.google.com/photo/AF1QipM08_c0ZUeuc41cwk1E1tNJStRXtXdqMuEiDAv_)
+![Demo of App](demo.gif)
 
 ### App Requirements:
 
