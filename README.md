@@ -1,7 +1,7 @@
 # Lets Find It
 Lets find the places you want to go! [Live Demo](https://erics-map-finder.herokuapp.com/)
 
-![Demo of App](demo.gif | width=100)
+<img src="demo.gif" width="40%">
 
 ### App Requirements:
 
