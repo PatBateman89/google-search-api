@@ -1,5 +1,5 @@
 # Lets Find It
-Travel smarter by saving the places you want to go. [Demo](https://erics-map-finder.herokuapp.com/)
+Lets find the places you want to go! [Live Demo](https://erics-map-finder.herokuapp.com/)
 
 ![Demo of App](demo.gif)
 
